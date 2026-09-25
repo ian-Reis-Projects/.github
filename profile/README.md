@@ -10,7 +10,7 @@ Welcome to the official organization repository for Ian Reis. This space central
 * **Roblox Studio**: Full-stack game mechanics, client-server networking, and Luau scripting.
 
 ### Software Engineering
-* **C:** Focusing on low-level optimization, hardware integration, and IoT applications.
+* **C/C++:** Focusing on low-level optimization, hardware integration, and IoT applications.
 * **Python**: Technical automation pipelines, tooling, asset optimization scripts, and backend utilities.
 
 ### Embedded Systems & IoT
