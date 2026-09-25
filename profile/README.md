@@ -12,6 +12,10 @@ Welcome to the official organization repository for Ian Reis. This space central
 ### Software Engineering
 * **Python**: Technical automation pipelines, tooling, asset optimization scripts, and backend utilities.
 
+### Embedded Systems & IoT
+* **Microcontrollers:** Firmware development for **Arduino** and **ESP32** platforms, focusing on hardware-software integration and connected devices.
+
+
 ## General Repository Guidelines
 
 * **Workflow**: Main branches are protected. Code changes must be reviewed via Pull Requests.
